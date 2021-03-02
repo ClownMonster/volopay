@@ -6,7 +6,7 @@ import LazyLoad from "react-lazyload";
 const ImageWrapper = styled.div`
   position: relative;
   width: 100%;
-  height: 10rem;
+  height: 13rem;
 `;
 
 const loadingAnimation = keyframes`
